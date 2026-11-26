@@ -1,31 +1,40 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Don3158
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Diamond Rental MN
+    url: https://diamondrentalmn.com
+  - name: Peak Exposure Studio
+    url: https://peakexposurestudio.com
+  - name: Winding Creek Puppies
+    url: https://windingcreekpuppies.com
+  - name: DH Bullies
+    url: https://dhbullies.com
+  - name: Huckleberry Acres
+    url: https://huckleberryacres.org
+  - name: Regal Puppy Suite
+    url: https://regalpuppysuite.com
+  - name: Leisure Lawn Furniture
+    url: https://leisurelawnfurniture.com
+
+# Who gets assigned (and emailed by GitHub) when a site goes down
+assignees:
+  - Don3158
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # OPTION A (default): dashboard at https://don3158.github.io/upptime/
+  baseUrl: /upptime
+
+  # OPTION B: your own address, e.g. https://status.diamondrentalmn.com
+  # Delete the baseUrl line above, uncomment the cname line below, and add a
+  # DNS CNAME record: status -> don3158.github.io
+  # cname: status.diamondrentalmn.com
+
+  name: Website Status
+  introTitle: "**Website status**"
+  introMessage: Live uptime and response times for all sites, checked every 5 minutes.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
