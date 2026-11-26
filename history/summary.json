@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/huckleberryacres.org.ico",
     "slug": "huckleberry-acres",
     "status": "down",
-    "uptime": "28.64%",
-    "uptimeDay": "28.64%",
-    "uptimeWeek": "28.64%",
-    "uptimeMonth": "28.64%",
-    "uptimeYear": "28.64%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 457,
     "timeDay": 457,
     "timeWeek": 457,
     "timeMonth": 457,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2026-11-26": 1
+      "2026-11-26": 525
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://regalpuppysuite.com",
     "icon": "https://icons.duckduckgo.com/ip3/regalpuppysuite.com.ico",
     "slug": "regal-puppy-suite",
-    "status": "down",
-    "uptime": "48.33%",
-    "uptimeDay": "48.33%",
-    "uptimeWeek": "48.33%",
-    "uptimeMonth": "48.33%",
-    "uptimeYear": "48.33%",
-    "time": 498,
-    "timeDay": 498,
-    "timeWeek": 498,
-    "timeMonth": 498,
-    "timeYear": 498,
+    "status": "up",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 537,
+    "timeDay": 537,
+    "timeWeek": 537,
+    "timeMonth": 537,
+    "timeYear": 537,
     "dailyMinutesDown": {
-      "2026-11-26": 0
+      "2026-11-26": 525
     }
   },
   {
